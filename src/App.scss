@@ -1,0 +1,19 @@
+@import 'styles/All.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: sans-serif;
+  background: rgba(0, 0, 55, 0.97);
+
+}
+
